@@ -6,10 +6,10 @@ height: 40px;
     background-color: deeppink;
 
 }
- a{
+a{
     
     color: yellow;
-    padding: 5px;
+    padding-left: 4px;
     text-decoration: none;
     font-size: 25px;
 }
